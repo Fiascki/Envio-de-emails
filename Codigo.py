@@ -12,7 +12,6 @@ import os
 acao_pc = input("O que deseja fazer após o envio? (desligar/reiniciar/nao): ").strip().lower()
 
 
-
 print("O código foi iniciado.")
 def main():
     # Ir até o navegador... 
