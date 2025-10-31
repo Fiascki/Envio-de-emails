@@ -1,4 +1,4 @@
-# 💌 Automação de Envio de E-mails com Python
+# 👨‍💻 Automação de Envio de E-mails com Python
 
 Este projeto automatiza o envio de e-mails pelo Gmail utilizando a biblioteca PyAutoGUI, além de permitir o agendamento do envio e a execução de ações automáticas no computador (como desligar ou reiniciar após o envio).
 
