@@ -89,6 +89,7 @@ A biblioteca PyAutoGUI é excelente para aprendizado e uso pessoal, mas possui l
 Essa automação foi criada para uso pessoal, podendo ser executada em seu desktop ou notebook sem riscos.
 Mas te garanto — é muito divertido construir essa automação com PyAutoGUI!
 Recomendo essa biblioteca (PyAutoGUI) para iniciar nas automações com Python e entender na prática como a interação com o computador pode ser controlada via código.
+Importe também saber que essa autmação não envia arquivos, apenas mensagens de texto.
 
 
 ### 👨‍💻 Autor
