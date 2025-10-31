@@ -74,9 +74,9 @@ def main():
 
     # Só aqui, depois de enviar, que faz a ação no PC
     if acao_pc == "desligar":
-        os.system("shutdown /s /t 10")
+        os.system("shutdown /s /t 15")
     elif acao_pc == "reiniciar":
-        os.system("shutdown /r /t 10")
+        os.system("shutdown /r /t 15")
     else:
         print("O computador permanecerá ligado.")
 
@@ -97,4 +97,8 @@ elif opcao == "agendar":
 
 else:
     print("Opção inválida.")
+
+
+
+
 
